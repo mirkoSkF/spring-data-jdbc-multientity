@@ -1,0 +1,18 @@
+{
+  "nome": "Mirko",
+  "cognome": "Onorato",
+  "codiceFiscale": "NRNMRK85A01F205Z",
+  "genere": "MASCHIO",
+  "dataDiNascita": "1985-01-01",
+  "luogoNascita": "Napoli",
+  "ruoloId": 1,
+  "account": {
+    "username": "mirko.dev",
+    "password": "supersecretpassword123"
+  },
+  "contatti": [
+    { "tipoContattoId": 1, "valore": "mirko@example.com" },
+    { "tipoContattoId": 2, "valore": "+39 333 123456" }
+  ],
+  "titoliStudio": [ 1, 2 ]
+}
